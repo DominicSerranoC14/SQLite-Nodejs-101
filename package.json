@@ -1,0 +1,23 @@
+{
+  "name": "node-sqlite",
+  "version": "1.0.0",
+  "description": "A command line app that can output sql data to the terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicSerranoC14/SQLite-Nodejs-101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominicSerranoC14/SQLite-Nodejs-101/issues"
+  },
+  "homepage": "https://github.com/DominicSerranoC14/SQLite-Nodejs-101#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.6"
+  }
+}
